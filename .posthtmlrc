@@ -7,12 +7,214 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Columbia affiliates donated more than $40,000 to Mayor-elect Zohran Mamdani in the lead-up to the 2025 New York City mayoral election, a Spectator analysis of New York City Campaign Finance Board data found. In total, Columbia affiliates made 572 contributions to mayoral candidates, totalling around $81,000."
+          },
+          {
+            "type": "text",
+            "value": "These findings follow the conclusion of a mayoral race that garnered national media attention. With his victory, Mamdani capped off a meteoric political rise, becoming the youngest mayor the city has seen since 1892 and the city’s first Muslim and South Asian mayor."
+          },
+          {
+            "type": "text",
+            "value": "As a registered 501(c)(3) nonprofit, Columbia itself “is prohibited from participating or intervening in any political campaign on behalf of or in opposition to any candidate for public office,” according to a University <a href=\"https://universitypolicies.columbia.edu/content/partisan-political-campaign-activities-campus-or-campus-facilities\">web page</a> about its policies regarding contributions to political campaigns."
+          },
+          {
+            "type": "text",
+            "value": "The web page notes that the University “encourages students, faculty, and other employees, in their individual capacities, to participate fully in the political process during campaigns by candidates for public office as long as they do not-either overtly or implicitly-involve the University.”"
+          },
+          {
+            "type": "text",
+            "value": "Spectator’s analysis focused solely on the 572 contributions donated in a personal capacity by 387 individuals who self-identified as being employed by or students of Columbia."
+          },
+          {
+            "type": "text",
+            "value": "Using the finance board’s candidate contribution tool, Spectator searched for all individual contributions made by affiliates to mayoral candidates ahead of the June 24 primary and the Nov. 4 general election, compiled from 14 semesterly reports starting from January 2022. The most recent report included contributions made by Oct. 20."
+          },
+          {
+            "type": "text",
+            "value": "Earlier this year, Cas Holloway, Columbia’s former chief operating officer, was the highest-ranking University administrator to make a public donation. According to data from the Campaign Finance Board, Holloway made two separate $250 contributions in February and May to the mayoral campaigns of city Comptroller Brad Lander and former Comptroller Scott Stringer, respectively, while still holding the title of COO."
+          },
+          {
+            "type": "text",
+            "value": "Holloway <a href=\"https://www.columbiaspectator.com/news/2025/07/29/cas-holloway-steps-down-as-columbias-first-chief-operating-officer-will-remain-as-adviser/\">stepped down</a> from his position as COO in July and is now a special advisor to acting University President Claire Shipman, CC ’86, SIPA ’94."
+          },
+          {
+            "type": "text",
+            "value": "When asked about his donations to Lander and Stringer, Holloway declined to comment."
+          },
+          {
+            "type": "text",
+            "value": "Robert Kasdin, senior executive vice president at the University, donated to Lander in 2023 and to Stringer in 2024 and 2025. However, he made these donations before returning to Columbia as senior executive vice president on Aug. 19. Kasdin worked at Johns Hopkins University when he made these donations."
+          },
+          {
+            "type": "text",
+            "value": "According to Spectator’s analysis, there is no public record of any member of the board of trustees, executive committee, Office of the President, or council of deans contributing to the race."
+          },
+          {
+            "type": "text",
+            "value": "This trend marks a departure from the 2024 election, which saw <a href=\"https://www.columbiaspectator.com/news/2024/11/17/top-columbia-administrators-donated-overwhelmingly-to-democrats-in-2024-and-2020/\">overwhelming</a> donations from administrators to Democratic candidates, including University trustees donating almost $1.2 million to former Vice President Kamala Harris’ campaign."
+          },
+          {
+            "type": "text",
+            "value": "<b>Mamdani led in total donations across all Columbia employees</b>"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "FinalTotal.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Mamdani’s campaign raked in the most donations—$41,913—from Columbia affiliates, accounting for around 51 percent of all donations from University affiliates. He received $2,091 more in donations than all of the remaining candidates combined."
+          },
+          {
+            "type": "text",
+            "value": "Mamdani also had a fivefold lead in the number of donors, with 250 unique donors. His closest opponent, Lander, saw 48 Columbia affiliates donate to his campaign."
+          },
+          {
+            "type": "text",
+            "value": "Mamdani’s campaign received a total $4,003,089 in net contributions, with contributions from Columbia affiliates amounting to around 1 percent of Mamdani’s total campaign funds."
+          },
+          {
+            "type": "text",
+            "value": "Born in Uganda, Mamdani moved to Morningside Heights when he was 7. Throughout his campaign, he frequently mentioned local businesses in the neighborhood, including Koronet Pizza. In the <a href=\"https://www.columbiaspectator.com/city-news/2025/06/25/district-36-assemblymember-zohran-mamdani-sweeps-morningside-heights-precincts-in-democratic-mayoral-primary-victory/\">primary</a> and the <a href=\"https://www.columbiaspectator.com/city-news/2025/11/04/zohran-mamdani-morningside-heights-native-elected-111th-mayor-of-new-york-city/\">general election</a>, Mamdani won a majority of precincts in Morningside Heights and West Harlem."
+          },
+          {
+            "type": "text",
+            "value": "On average, contributors to Mamdani’s campaign donated $98, while Columbia affiliates who donated to Mamdani contributed an average of about $168."
+          },
+          {
+            "type": "text",
+            "value": "<b>Mamdani received most support from non-administrative employees</b>"
+          },
+          {
+            "type": "text",
+            "value": "The majority of affiliates who donated to Mamdani self-identified as non-administrative employees, followed by faculty members, researchers, and postdoctoral students."
+          },
+          {
+            "type": "text",
+            "value": "The contributions from these groups accounted for 94 percent of total donations to Mamdani’s campaign from University affiliates."
+          },
+          {
+            "type": "text",
+            "value": "Mamdani’s father, Mahmood Mamdani, the Herbert Lehman professor of government in the anthropology department at Columbia, donated $2,100 to his son’s campaign on Nov. 1, 2024."
+          },
+          {
+            "type": "text",
+            "value": "During Mamdani’s victory speech on election night at the Brooklyn Paramount, Mamdani thanked his parents for their support."
+          },
+          {
+            "type": "text",
+            "value": "“To my parents, mama and baba: You have made me into the man I am today,” he said. “I am so proud to be your son.”"
+          },
+          {
+            "type": "text",
+            "value": "Mahmood Mamdani’s donation is the highest individual donation amount allowed for campaigns that participate in the city’s campaign finance program."
+          },
+          {
+            "type": "text",
+            "value": "“The voluntary public financing program matches small-dollar contributions from individuals who reside in New York City, helping to amplify the voices of New Yorkers in city elections,” the website reads, citing an example of the 2021 mayoral race, where a $10 contribution from a resident “could be worth as much as $90 to their campaign.”"
+          },
+          {
+            "type": "text",
+            "value": "The program revolves around matching funds, which, according to the Campaign Finance Board’s website, provides “candidates with a strong incentive to finance their campaigns by engaging with average New Yorkers instead of seeking large contributions from special interests.”"
+          },
+          {
+            "type": "text",
+            "value": "Mamdani, former New York Gov. Andrew Cuomo, and Lander were all participants in the program."
+          },
+          {
+            "type": "text",
+            "value": "Other than Mahmood Mamdani, six other faculty members also donated $2,100 to Mamdani’s campaign, including Katherine Franke, BC ’81, former James L. Dohr professor of law, who donated to Mamdani on Oct. 23, 2024, the same day Mamdani announced his campaign for mayor. Franke was still teaching at the Law School at the time. She <a href=\"https://www.columbiaspectator.com/news/2025/01/16/law-professor-katherine-franke-bc-81-departs-following-investigation-into-alleged-discriminatory-harassment/\">departed</a> from the University in January over an investigation into alleged discriminatory harassment."
+          },
+          {
+            "type": "text",
+            "value": "Franke did not immediately respond to a request for comment."
+          },
+          {
+            "type": "text",
+            "value": "Other faculty members who donated to Mamdani’s campaign include Reinhold Martin, professor of architecture at the Graduate School of Architecture, Planning and Preservation. Reinhold made donations in October 2024 and December 2024 amounting to $750."
+          },
+          {
+            "type": "text",
+            "value": "Michael Thaddeus—professor of mathematics and acting president of Columbia’s chapter of the American Association of University Professors—also donated to Mamdani’s campaign in January and March for a total of $400."
+          },
+          {
+            "type": "text",
+            "value": "“Zohran Mamdani stood up, together with the thousands—now millions—with and for whom he speaks who have done the same,” Martin wrote in a statement to Spectator."
+          },
+          {
+            "type": "text",
+            "value": "Thaddeus did not immediately respond to a request for comment."
+          },
+          {
+            "type": "text",
+            "value": "<b>Cuomo and Lander trailed Mamdani in donations</b>"
+          },
+          {
+            "type": "text",
+            "value": "Mamdani’s closest opponents during the Democratic primary, Lander and Cuomo, secured fewer donations from Columbia affiliates ahead of the primary and the general election."
+          },
+          {
+            "type": "text",
+            "value": "Lander’s primary campaign received a total of $1,834,678 in net contributions, with total contributions from Columbia affiliates making up 0.8 percent of Lander’s total campaign funds."
+          },
+          {
+            "type": "text",
+            "value": "In his primary campaign, contributors donated an average of $216 to Lander, whereas Columbia affiliates who donated to Lander contributed an average of $315."
+          },
+          {
+            "type": "text",
+            "value": "Lander and Mamdani cross-endorsed each other in the final days of campaigning before the primary to consolidate progressive votes against Cuomo."
+          },
+          {
+            "type": "text",
+            "value": "Martin donated $100 to Lander in April 2024, prior to Lander’s July 2024 mayoral campaign announcement."
+          },
+          {
+            "type": "text",
+            "value": "Cuomo’s campaign received a total of $5,864,383 in net contributions, with contributions from Columbia affiliates making up 0.1 percent of Cuomo’s total campaign funds."
+          },
+          {
+            "type": "text",
+            "value": "Contributors donated an average of $593 to Cuomo, with Columbia affiliates contributing an average of $519."
+          },
+          {
+            "type": "text",
+            "value": "In interviews with Spectator, both Columbia students and faculty have expressed excitement about Mamdani’s win, calling it <a href=\"https://www.columbiaspectator.com/news/2025/11/06/uncharted-in-a-really-great-way-columbia-students-react-to-mamdanis-victory/\">“uncharted in a really great way”</a> and expressing <a href=\"https://www.columbiaspectator.com/news/2025/11/10/i-am-hopeful-columbia-faculty-welcome-mamdanis-mayoral-victory/\">hope</a> for his upcoming term."
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Joseph Zuloaga can be contacted at </i><i>joseph.zuloaga@columbiaspectator.com</i><i>. Follow him on X </i><a href=\"https://twitter.com/JosephZuloaga\"><i>@josephzuloaga</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Celine Chien can be contacted at </i><i>celine.chien@columbiaspectator.com</i><i>. Follow Spectator on X </i><a href=\"https://x.com/ColumbiaSpec\"><i>@columbiaspec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Associate Matthew Lombardi can be contacted at </i><i>matthew.lombardi@columbiaspectator.com</i><i>. Follow Spectator on X </i><a href=\"https://x.com/ColumbiaSpec\"><i>@columbiaspec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Zohran Mamdani received the most donations from Columbia affiliates ahead of New York City mayoral election",
+        "dek": "A Spectator analysis of New York City Campaign Finance Board data found that Columbia affiliates collectively donated more than $40,000 to Mamdani’s mayoral campaign ahead of the primary and general election.",
+        "date": "November 12, 2025",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/joseph-zuloaga/\">Joseph Zuloaga</a> and <a href=\"https://www.columbiaspectator.com/contributors/celine-chien/\">Celine Chien</a>",
+        "byline2": "Graphic by <a href=\"https://www.columbiaspectator.com/contributors/matthew-lombardi/\">Matthew Lombardi</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/Y6P5LH7BDJG2JJR5TIA2R3FHLA.png",
+        "cover_caption": "Sally Li Weitzner / Staff Illustrator",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1HxIM2lBiIHlmxa8RE9lWX2whr7dIxQbzmRqnhaOLCq4/edit?tab=t.0"
       }
     }
   }
